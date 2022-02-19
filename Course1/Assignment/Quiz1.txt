@@ -1,0 +1,26 @@
+1. Machine Learning Algorithms are different than traditional computer algorithms in that they:
+ans: Use data to learn rules
+
+2. We can use a loss function to:
+ans: A and B
+
+3. A randomly selected learning rate:
+ans: All of the above
+
+4. Neural network parameters:
+ans: Get updated during training
+
+5. Machine Learning applications:
+ans: None of the above
+
+6. All of the following are kinds of layers except:
+ans: Reverse
+
+7. How many layers did you use in your model:
+ans: One
+
+8. For most Epochs (Epochs ≥ 25) did the data fit better when the output, y, was positive or negative?
+ans: Positive
+
+9. Why did this happen?
+ans: Our dataset half as many negative points so it was less likely to find a good fit for them.
