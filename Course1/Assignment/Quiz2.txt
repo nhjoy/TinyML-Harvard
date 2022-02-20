@@ -1,0 +1,29 @@
+1. Overfitting is a problem because while the model may seem to have low error in reality it will perform quite poorly on:
+ans: B, C, and D
+
+2. Having separate training, validation, and test data sets:
+ans: Allows for better testing of overfitting
+
+3. The step that often takes the most time in the development of machine learning applications is:
+ans: Preparing a dataset
+
+4. Which of the following are true (select all that apply):
+ans: Regression outputs a value and Classification outputs a probability
+
+5. Inference is when:
+ans: A model is run to make a prediction
+
+6. ReLU and Softmax are two examples of:
+ans: Activation functions
+
+7. TensorFlow can:
+ans: All of the above
+
+8. When we ran model.predict on the test data we got out lists of ten decimal values. What did they represent?
+ans: It's the probability that the item is each of the 10 classes
+
+9. When you doubled the number of Neurons in the model, what was the impact (select all that apply)?
+ans: Training took longer and The accuracy went up
+
+10. How did we teach the model to exit early in training in certain cases?
+ans: We added a callback function
