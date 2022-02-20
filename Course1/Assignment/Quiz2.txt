@@ -1,0 +1,29 @@
+1. TinyML exists at the intersection of all of the below EXCEPT
+ans: Quantum Computing
+
+2. TinyML would be a good option for which of the following scenarios? (check all that apply)
+ans: Designing smart anomaly detection sensors placed on remote oil pipelines.
+     Building a smart elephant tracking collar that can detect injuries.
+     
+3. Why are the scenario(s) you selected good options for TinyML? Select the best option.
+ans: They require low power computations
+
+4. Which of the following is NOT true about microcontrollers (MCUs)?
+ans: They run the open source linux operating system
+
+5. Why is TinyML hard? (check all that apply)
+ans: MCUs do not always provide support for accurate floating point math
+     MCUs are memory constrained making it hard to fit Neural Networks on the device
+     
+6. Which of the following is/are NOT true (check all that apply)?
+ans: Standard libraries and floating point support are needed to run TinyML models.
+     MCUs can support any neural network
+
+7. How are Artificial Intelligence, Machine Learning, and Deep Learning related?
+ans: How are Artificial Intelligence, Machine Learning, and Deep Learning related?
+
+8. What is the best way to characterize the role of AI/technology?
+ans: AI is disruptive, it will offer new benefits as well as new risks and challenges
+
+9. In order to meet the growing demand for Responsible AI, at which point in a product’s lifecycle should ethics be involved?
+ans: At every stage (design, development and deployment)
