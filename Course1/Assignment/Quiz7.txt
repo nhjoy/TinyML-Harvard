@@ -1,0 +1,28 @@
+1. Which of the following is not considered one of the disadvantages of machine learning?
+ans: It cannot address complex tasks
+
+2. When should we choose machine learning (AI) over traditional programming?
+ans: When AI adds unique value
+
+3. Which challenge facing AI for social good is TinyML uniquely positioned to address?
+ans: Learning with limited memory and computation
+
+4. Which question does not help resolve value tensions?
+ans: Which question does not help resolve value tensions?
+
+5. Which one of the following is not a consideration we should keep in mind when thinking about who we are building the technology for?
+ans: How profitable will the technology be?
+
+6. Which of the following is the most accurate definition for the concept of multistability?
+ans: Even if technology is designed for a specific purpose, it may be compatible with immoral, malicious or simply unintended purposes
+
+7. Which one of the following most accurately describes how designers should respond to concerns about multistability?
+ans: The technology should 1) stop being developed 2) changed in some way by implementing design choices, or 3) be redesigned for a new purpose
+
+8. Increasing the classification threshold to optimize for precision will (select all that apply):
+ans: Decrease the number of type 1 errors
+     Increase the number of type 2 errors
+     
+9. Decreasing the classification threshold to optimize for recall will (select all that apply):
+ans: Increase the number of type 1 errors
+     Decrease the number of type 2 errors
