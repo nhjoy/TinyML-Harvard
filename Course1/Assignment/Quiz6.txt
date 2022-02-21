@@ -1,0 +1,35 @@
+1. Machine Learning datasets can be imported into TensorFlow code through the use of
+ans: All of the above
+
+2. When the training set has lower error than the validation set
+ans: There may be overfitting as the model isn’t generalizing well
+
+3. The best optimizer for all Neural Networks is:
+ans: The best optimizer for all Neural Networks is:
+
+4. Designing, collecting, and preprocessing data sets takes up how much of an average data scientist's time?
+ans: 50% or more
+
+5. Why?
+ans: Often custom datasets need to be collected which is time consuming but TFDS and Generators can help reduce that burden
+
+6. Data Augmentation provides alternate versions of the same images which can be used to
+ans: A and B
+
+7. Temporarily removing nodes during training is called
+ans: Dropout Regularization
+
+8. In this assignment you created Generators for
+ans: A and B
+
+9. Using the Generators you could easily apply (although you may not have chosen to do this)
+ans: A and B
+
+10. Between Convolutional and Dense layers you need to apply a
+ans: Flattening Layer
+
+11. Why?
+ans: Because Convolutions are higher dimensional than Dense layers
+
+12. After training your model how well was the final validation accuracy
+ans: Better than 60%
