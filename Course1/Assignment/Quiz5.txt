@@ -1,0 +1,27 @@
+1. Convolutions allow for all of the following except:
+ans: Collect time series data to understand trends
+
+2. Pooling Layers are:
+ans: Are used in tandem with convolution layers
+
+3. This is because:
+ans: Convolutional layers extract features and pooling layers summarize them
+
+4. Which of the following is NOT true:
+ans: Training updates the parameters in the pooling layers of a CNN
+
+5. Which of the following is true:
+ans: None of the above
+
+6. Filters can be used to:
+ans: All of the above
+
+7. True, False, or Other: While many loss functions could work in this example, the most effective loss functions focused on categorical separation in the data.
+ans: True
+
+8. When you found your optimizer as compared to stochastic gradient descent it had (select all that apply):
+ans: Higher training accuracy
+     Higher or Similar (+/- 5%) validation accuracy
+
+9. This is because it:
+ans: Found a good solution faster (in less epochs)
