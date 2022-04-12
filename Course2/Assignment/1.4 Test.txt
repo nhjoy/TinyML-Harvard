@@ -1,0 +1,54 @@
+Question 1
+
+Quantization enables:
+Answer:
+More efficient computations through SIMD packing
+A reduce in memory requirements
+Faster inference through DSP acceleration
+
+Question 2
+
+Quantizing a 32-bit float model into an 8-bit Integer model will decrease memory requirements by:
+Answer:
+4x
+
+Question 3
+
+Quantization is more portable because:
+Answer:
+Many microcontrollers only support integer operations
+Many microcontrollers have limited memory
+
+Question 4
+
+Neural Network weights often take on a small number of values which:
+Answer:
+Makes it easier to quantize networks
+
+Question 5
+
+Quantization Aware Training (QAT) always provides better performance than Post Training Quantization (PTQ):
+Answer:
+False
+
+Question 6
+
+As compared to TensorFlow, TensorFlow Lite has:
+Answer:
+Support for quantization through the use of the Converter
+A smaller memory footprint
+
+Question 7
+
+Flatbuffers differ from Protobuffers because they:
+Answer:
+Do not require memory allocations
+Are more compressed
+
+Question 8
+
+Tensorflow’s Computational Graph is useful because:
+Answer:
+It provides increased portability
+It makes optimizations easy to do through graph algorithms
+It provides opportunities distributed training

@@ -1,0 +1,36 @@
+Question 1
+
+Which of the following are true of model optimizations
+Answer:
+They can be done during the conversion process
+They can be done after the conversion process
+
+Question 2
+
+Representative datasets are used to
+Answer:
+Calibrate our quantization scheme to the values we expect to see as inputs once deployed
+
+Question 3
+
+We found that after converting to TensorFlow Lite with quantization, the cats vs. dogs model:
+Answer:
+Still did very well with more than 90% validation accuracy
+
+Question 4
+
+Which of the following is true about Quantization Aware Training (QAT)?:
+Answer:
+Allows us to quantize during training which can improve accuracy
+
+Question 5
+
+Which of the following is true about TensorFlow Lite:
+Answer:
+Provides a mobile optimized inference engine for TensorFlow models
+
+Question 6
+
+In your quantization assignment, how accurate was the initial model in training/validation vs. in test after quantization?:
+Answer:
+It was about 100% accurate in training/validation and about 80% accurate in test after quantization

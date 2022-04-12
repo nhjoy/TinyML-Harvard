@@ -1,0 +1,86 @@
+Question 1
+
+To be deployed to the real world keyword spotting applications need to:
+Answer:
+Handle streaming audio in an always on fashion
+
+
+Question 2
+
+Spectrograms provide higher level features to Neural Networks because they:
+Answer:
+Expose both the frequency and time domain
+
+Question 3
+
+MFCCs provide higher level features than Spectrograms to Neural Networks because they:
+Answer:
+Take into account limitations in human audio perception
+
+Question 4
+
+Cascade architectures are used to:
+Answer:
+Improve accuracy and power consumption through a compute hierarchy
+
+Question 5
+
+Which of the following are true:
+Answer:
+False positives can invade user privacy by falsely sending data to the cloud
+False negatives can cause user frustration by never triggering
+
+Question 6
+
+The operating point for a keyword spotting system:
+Answer:
+Should be adjusted based on its environment after deployment
+
+Question 7
+
+To fit a keyword spotting model onto a microcontroller you need to consider:
+Answer:
+How to design a small model
+How to quantize a model to reduce its size
+The size of the audio buffer needed to support the model
+The size of the wrapper code needed to support the model
+
+Question 8
+
+Keyword Spotting applications can tolerate small models because:
+Answer:
+They are only trying to identify a few particular words
+They can leverage the cloud to do the majority of the actual speech recognition tasks
+They are often deployed using cascade architectures
+
+Question 9
+
+Having an always on keywords spotting model on a microcontroller:
+Answer:
+Helps protect the users privacy as it only records and sends data to the cloud when triggered
+
+Question 10
+
+Pete’s Keyword Spotting Dataset:
+Answer:
+Is designed to serve as a limited starter dataset
+Includes background noise
+Has recordings from many users to improve generalizability
+
+Question 11
+
+Quality of experience is an important metric because:
+Answer:
+If users don’t enjoy the application they won’t use it
+
+Question 12
+
+When you trained your custom model you needed to use:
+Answer:
+More than 100 training iterations
+
+Question 13
+
+When you trained your custom model how many words were you able to use and still have it be relatively accurate:
+Answer:
+Less than 15 words

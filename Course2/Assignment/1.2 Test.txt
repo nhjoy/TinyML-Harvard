@@ -1,0 +1,63 @@
+Question 1
+
+During the ML lifecycle you may need to label and preprocess data because:
+Answer:
+ML models often learn to match data to labels
+ML models may struggle if data is presented irregularly and not in the same form
+ML models work best (and learn the fastest) when they are presented with relevant data
+
+Question 2
+
+Model engineering includes which of the following steps:
+Answer:
+Improving training speed
+Evaluating against metrics
+Optimizing model training
+
+Question 3
+
+Data engineering includes which of the following steps:
+Answer:
+Defining data requirements
+Inspecting and cleaning the data
+Augmenting the data
+
+Question 4
+
+Model deployment includes which of the following steps:
+Answer:
+Model conversion
+Energy-aware optimizations
+On-device fine-tuning
+
+Question 5
+
+Product analysis includes which of the following steps:
+Answer:
+Dashboards
+Field data evaluation
+Value-added for business
+Opportunities for advancement and improvements
+
+Question 6
+
+For TinyML model deployment is a critical step because:
+Answer:
+Getting models to fit on tiny devices is a challenge
+Getting models to run efficiently on tiny devices is a challenge
+
+Question 7
+
+Design requirements are important for TinyML because:
+Answer:
+TinyML faces very strong memory and storage constraints
+TinyML faces very strong latency constraints
+
+Question 8
+
+In this course we will explore many sensors including:
+Answer:
+Microphones
+Cameras
+Accelerometers
+
